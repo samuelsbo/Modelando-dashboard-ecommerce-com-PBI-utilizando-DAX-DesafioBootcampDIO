@@ -2,7 +2,7 @@
 
 # Power BI Data Model - Sales Analysis
 
-Este README descreve o modelo de dados utilizado no Power BI para a análise de vendas. O modelo segue a estrutura de um esquema estrela, com uma tabela fato central e tabelas de dimensões conectadas a ela. A tabela fato é a principal fonte de informações para as métricas de desempenho e as dimensões fornecem informações detalhadas sobre diferentes aspectos dos dados de vendas.
+Este projeto descreve o modelo de dados utilizado no Power BI para a análise de vendas. O modelo segue a estrutura de um esquema estrela, com uma tabela fato central e tabelas de dimensões conectadas a ela. A tabela fato é a principal fonte de informações para as métricas de desempenho e as dimensões fornecem informações detalhadas sobre diferentes aspectos dos dados de vendas.
 
 ## Tabelas Dimensão
 
